@@ -1,0 +1,12 @@
+#wrapper > div {
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    background: hsl(120, 70%, 70%);
+
+}
+
+#wrapper {
+    display: flex;
+    flex-flow: row wrap;
+}
